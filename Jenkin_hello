@@ -1,0 +1,12 @@
+public class Jenkins_hello
+{
+public static void main(String args[])
+{
+System.out.println("hi Jenkii");
+System.out.println("Hii yogi");
+System.out.println("Hi ammu");
+System.out.println("Hi Jankii");
+System.out.println("Hi seema");
+
+}
+}
